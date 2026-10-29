@@ -1,0 +1,1272 @@
+[
+ {
+  "question": "What is the monthly payment for the retail installment contract on the 2021 Hyundai Tucson SE?",
+  "expected": "$491.42",
+  "kind": "document",
+  "doc_id": "RIC-082",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "RIC-082",
+   "page": 3,
+   "title": "Retail Installment Contract 082 - 2021 Hyundai Tucson SE"
+  }
+ },
+ {
+  "question": "What is the grace period for the retail installment contract on the 2023 Hyundai Elantra XLE?",
+  "expected": "10 days",
+  "kind": "document",
+  "doc_id": "RIC-015",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "RIC-015",
+   "page": 3,
+   "title": "Retail Installment Contract 015 - 2023 Hyundai Elantra XLE"
+  }
+ },
+ {
+  "question": "What is the monthly payment for the retail installment contract on the 2024 Honda Accord LE?",
+  "expected": "$451.17",
+  "kind": "document",
+  "doc_id": "RIC-004",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "RIC-004",
+   "page": 3,
+   "title": "Retail Installment Contract 004 - 2024 Honda Accord LE"
+  }
+ },
+ {
+  "question": "What is the grace period for the retail installment contract on the 2021 Subaru Outback SE?",
+  "expected": "15 days",
+  "kind": "document",
+  "doc_id": "RIC-095",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "RIC-095",
+   "page": 3,
+   "title": "Retail Installment Contract 095 - 2021 Subaru Outback SE"
+  }
+ },
+ {
+  "question": "What is the late fee for the retail installment contract on the 2024 Toyota Camry Sport?",
+  "expected": "$40",
+  "kind": "document",
+  "doc_id": "RIC-036",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "RIC-036",
+   "page": 3,
+   "title": "Retail Installment Contract 036 - 2024 Toyota Camry Sport"
+  }
+ },
+ {
+  "question": "What is the annual percentage rate for the retail installment contract on the 2022 Nissan Altima XLE?",
+  "expected": "5.17%",
+  "kind": "document",
+  "doc_id": "RIC-032",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "RIC-032",
+   "page": 1,
+   "title": "Retail Installment Contract 032 - 2022 Nissan Altima XLE"
+  }
+ },
+ {
+  "question": "What is the monthly payment for the retail installment contract on the 2021 Jeep Grand Cherokee XLE?",
+  "expected": "$1,031.02",
+  "kind": "document",
+  "doc_id": "RIC-029",
+  "correct": false,
+  "tool": "document_search",
+  "citation": {
+   "source": "RIC-029",
+   "page": 3,
+   "title": "Retail Installment Contract 029 - 2021 Jeep Grand Cherokee XLE"
+  }
+ },
+ {
+  "question": "What is the grace period for the retail installment contract on the 2021 Hyundai Elantra SE?",
+  "expected": "10 days",
+  "kind": "document",
+  "doc_id": "RIC-018",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "RIC-018",
+   "page": 3,
+   "title": "Retail Installment Contract 018 - 2021 Hyundai Elantra SE"
+  }
+ },
+ {
+  "question": "What is the late fee for the retail installment contract on the 2022 Kia Sportage XLE?",
+  "expected": "$40",
+  "kind": "document",
+  "doc_id": "RIC-117",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "RIC-117",
+   "page": 3,
+   "title": "Retail Installment Contract 117 - 2022 Kia Sportage XLE"
+  }
+ },
+ {
+  "question": "What is the late fee for the retail installment contract on the 2024 Toyota RAV4 SE?",
+  "expected": "$40",
+  "kind": "document",
+  "doc_id": "RIC-014",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "RIC-014",
+   "page": 3,
+   "title": "Retail Installment Contract 014 - 2024 Toyota RAV4 SE"
+  }
+ },
+ {
+  "question": "What is the monthly payment for the retail installment contract on the 2023 Chevrolet Equinox Sport?",
+  "expected": "$393.64",
+  "kind": "document",
+  "doc_id": "RIC-087",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "RIC-087",
+   "page": 3,
+   "title": "Retail Installment Contract 087 - 2023 Chevrolet Equinox Sport"
+  }
+ },
+ {
+  "question": "What is the monthly payment for the retail installment contract on the 2021 Honda Civic LE?",
+  "expected": "$817.34",
+  "kind": "document",
+  "doc_id": "RIC-112",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "RIC-112",
+   "page": 3,
+   "title": "Retail Installment Contract 112 - 2021 Honda Civic LE"
+  }
+ },
+ {
+  "question": "What is the late fee for the retail installment contract on the 2021 Kia Forte Sport?",
+  "expected": "$30",
+  "kind": "document",
+  "doc_id": "RIC-070",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "RIC-070",
+   "page": 3,
+   "title": "Retail Installment Contract 070 - 2021 Kia Forte Sport"
+  }
+ },
+ {
+  "question": "What is the annual percentage rate for the retail installment contract on the 2021 Toyota Camry Sport?",
+  "expected": "10.71%",
+  "kind": "document",
+  "doc_id": "RIC-012",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "RIC-012",
+   "page": 1,
+   "title": "Retail Installment Contract 012 - 2021 Toyota Camry Sport"
+  }
+ },
+ {
+  "question": "What is the annual percentage rate for the retail installment contract on the 2024 Hyundai Elantra LE?",
+  "expected": "6.28%",
+  "kind": "document",
+  "doc_id": "RIC-076",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "RIC-076",
+   "page": 1,
+   "title": "Retail Installment Contract 076 - 2024 Hyundai Elantra LE"
+  }
+ },
+ {
+  "question": "What is the grace period for the retail installment contract on the 2021 Ford F-150 XLE?",
+  "expected": "10 days",
+  "kind": "document",
+  "doc_id": "RIC-055",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "RIC-055",
+   "page": 3,
+   "title": "Retail Installment Contract 055 - 2021 Ford F-150 XLE"
+  }
+ },
+ {
+  "question": "What is the annual percentage rate for the retail installment contract on the 2022 Toyota Camry SE?",
+  "expected": "11.07%",
+  "kind": "document",
+  "doc_id": "RIC-005",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "RIC-005",
+   "page": 1,
+   "title": "Retail Installment Contract 005 - 2022 Toyota Camry SE"
+  }
+ },
+ {
+  "question": "What is the late fee for the retail installment contract on the 2024 Kia Forte XLE?",
+  "expected": "$35",
+  "kind": "document",
+  "doc_id": "RIC-118",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "RIC-118",
+   "page": 3,
+   "title": "Retail Installment Contract 118 - 2024 Kia Forte XLE"
+  }
+ },
+ {
+  "question": "What is the late fee for the retail installment contract on the 2024 Chevrolet Equinox SE?",
+  "expected": "$25",
+  "kind": "document",
+  "doc_id": "RIC-107",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "RIC-107",
+   "page": 3,
+   "title": "Retail Installment Contract 107 - 2024 Chevrolet Equinox SE"
+  }
+ },
+ {
+  "question": "What is the late fee for the retail installment contract on the 2022 Chevrolet Equinox Sport?",
+  "expected": "$25",
+  "kind": "document",
+  "doc_id": "RIC-028",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "RIC-028",
+   "page": 3,
+   "title": "Retail Installment Contract 028 - 2022 Chevrolet Equinox Sport"
+  }
+ },
+ {
+  "question": "What is the annual percentage rate for the retail installment contract on the 2023 Hyundai Tucson LE?",
+  "expected": "7.54%",
+  "kind": "document",
+  "doc_id": "RIC-030",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "RIC-030",
+   "page": 1,
+   "title": "Retail Installment Contract 030 - 2023 Hyundai Tucson LE"
+  }
+ },
+ {
+  "question": "What is the grace period for the retail installment contract on the 2021 Ford F-150 SE?",
+  "expected": "15 days",
+  "kind": "document",
+  "doc_id": "RIC-065",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "RIC-065",
+   "page": 3,
+   "title": "Retail Installment Contract 065 - 2021 Ford F-150 SE"
+  }
+ },
+ {
+  "question": "What is the annual percentage rate for the retail installment contract on the 2024 Nissan Sentra LE?",
+  "expected": "5.29%",
+  "kind": "document",
+  "doc_id": "RIC-078",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "RIC-078",
+   "page": 1,
+   "title": "Retail Installment Contract 078 - 2024 Nissan Sentra LE"
+  }
+ },
+ {
+  "question": "What is the grace period for the retail installment contract on the 2021 Honda Civic XLE?",
+  "expected": "10 days",
+  "kind": "document",
+  "doc_id": "RIC-103",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "RIC-103",
+   "page": 3,
+   "title": "Retail Installment Contract 103 - 2021 Honda Civic XLE"
+  }
+ },
+ {
+  "question": "What is the annual percentage rate for the retail installment contract on the 2023 Chevrolet Equinox SE?",
+  "expected": "12.62%",
+  "kind": "document",
+  "doc_id": "RIC-072",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "RIC-072",
+   "page": 1,
+   "title": "Retail Installment Contract 072 - 2023 Chevrolet Equinox SE"
+  }
+ },
+ {
+  "question": "What is the residual value for the lease agreement on the 2021 Hyundai Elantra LE?",
+  "expected": "$26,437",
+  "kind": "document",
+  "doc_id": "LEASE-071",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "LEASE-071",
+   "page": 1,
+   "title": "Lease Agreement 071 - 2021 Hyundai Elantra LE"
+  }
+ },
+ {
+  "question": "What is the annual mileage allowance for the lease agreement on the 2021 Hyundai Tucson LE?",
+  "expected": "10,000 miles",
+  "kind": "document",
+  "doc_id": "LEASE-038",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "LEASE-038",
+   "page": 2,
+   "title": "Lease Agreement 038 - 2021 Hyundai Tucson LE"
+  }
+ },
+ {
+  "question": "What is the annual mileage allowance for the lease agreement on the 2021 Ford F-150 Sport?",
+  "expected": "10,000 miles",
+  "kind": "document",
+  "doc_id": "LEASE-081",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "LEASE-081",
+   "page": 2,
+   "title": "Lease Agreement 081 - 2021 Ford F-150 Sport"
+  }
+ },
+ {
+  "question": "What is the annual mileage allowance for the lease agreement on the 2023 Toyota Camry Sport?",
+  "expected": "10,000 miles",
+  "kind": "document",
+  "doc_id": "LEASE-080",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "LEASE-080",
+   "page": 2,
+   "title": "Lease Agreement 080 - 2023 Toyota Camry Sport"
+  }
+ },
+ {
+  "question": "What is the early termination fee for the lease agreement on the 2022 Hyundai Elantra SE?",
+  "expected": "$321",
+  "kind": "document",
+  "doc_id": "LEASE-047",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "LEASE-047",
+   "page": 2,
+   "title": "Lease Agreement 047 - 2022 Hyundai Elantra SE"
+  }
+ },
+ {
+  "question": "What is the early termination fee for the lease agreement on the 2022 Toyota RAV4 LE?",
+  "expected": "$450",
+  "kind": "document",
+  "doc_id": "LEASE-074",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "LEASE-074",
+   "page": 2,
+   "title": "Lease Agreement 074 - 2022 Toyota RAV4 LE"
+  }
+ },
+ {
+  "question": "What is the excess mileage charge for the lease agreement on the 2022 Nissan Sentra SE?",
+  "expected": "$0.17 per mile",
+  "kind": "document",
+  "doc_id": "LEASE-025",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "LEASE-025",
+   "page": 2,
+   "title": "Lease Agreement 025 - 2022 Nissan Sentra SE"
+  }
+ },
+ {
+  "question": "What is the annual mileage allowance for the lease agreement on the 2024 Jeep Grand Cherokee LE?",
+  "expected": "15,000 miles",
+  "kind": "document",
+  "doc_id": "LEASE-091",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "LEASE-091",
+   "page": 2,
+   "title": "Lease Agreement 091 - 2024 Jeep Grand Cherokee LE"
+  }
+ },
+ {
+  "question": "What is the excess mileage charge for the lease agreement on the 2023 Kia Forte SE?",
+  "expected": "$0.19 per mile",
+  "kind": "document",
+  "doc_id": "LEASE-009",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "LEASE-009",
+   "page": 2,
+   "title": "Lease Agreement 009 - 2023 Kia Forte SE"
+  }
+ },
+ {
+  "question": "What is the residual value for the lease agreement on the 2023 Nissan Sentra LE?",
+  "expected": "$16,330",
+  "kind": "document",
+  "doc_id": "LEASE-006",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "LEASE-006",
+   "page": 1,
+   "title": "Lease Agreement 006 - 2023 Nissan Sentra LE"
+  }
+ },
+ {
+  "question": "What is the annual mileage allowance for the lease agreement on the 2023 Toyota RAV4 LE?",
+  "expected": "15,000 miles",
+  "kind": "document",
+  "doc_id": "LEASE-085",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "LEASE-085",
+   "page": 2,
+   "title": "Lease Agreement 085 - 2023 Toyota RAV4 LE"
+  }
+ },
+ {
+  "question": "What is the residual value for the lease agreement on the 2021 Ford Escape LE?",
+  "expected": "$24,265",
+  "kind": "document",
+  "doc_id": "LEASE-030",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "LEASE-030",
+   "page": 1,
+   "title": "Lease Agreement 030 - 2021 Ford Escape LE"
+  }
+ },
+ {
+  "question": "What is the excess mileage charge for the lease agreement on the 2021 Kia Sportage XLE?",
+  "expected": "$0.21 per mile",
+  "kind": "document",
+  "doc_id": "LEASE-099",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "LEASE-099",
+   "page": 2,
+   "title": "Lease Agreement 099 - 2021 Kia Sportage XLE"
+  }
+ },
+ {
+  "question": "What is the early termination fee for the lease agreement on the 2022 Kia Sportage LE?",
+  "expected": "$364",
+  "kind": "document",
+  "doc_id": "LEASE-011",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "LEASE-011",
+   "page": 2,
+   "title": "Lease Agreement 011 - 2022 Kia Sportage LE"
+  }
+ },
+ {
+  "question": "What is the excess mileage charge for the lease agreement on the 2022 Ford Escape XLE?",
+  "expected": "$0.2 per mile",
+  "kind": "document",
+  "doc_id": "LEASE-089",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "LEASE-089",
+   "page": 2,
+   "title": "Lease Agreement 089 - 2022 Ford Escape XLE"
+  }
+ },
+ {
+  "question": "What is the residual value for the lease agreement on the 2023 Subaru Outback LE?",
+  "expected": "$19,693",
+  "kind": "document",
+  "doc_id": "LEASE-013",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "LEASE-013",
+   "page": 1,
+   "title": "Lease Agreement 013 - 2023 Subaru Outback LE"
+  }
+ },
+ {
+  "question": "What is the annual mileage allowance for the lease agreement on the 2022 Honda Accord SE?",
+  "expected": "15,000 miles",
+  "kind": "document",
+  "doc_id": "LEASE-049",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "LEASE-049",
+   "page": 2,
+   "title": "Lease Agreement 049 - 2022 Honda Accord SE"
+  }
+ },
+ {
+  "question": "What is the excess mileage charge for the lease agreement on the 2024 Nissan Altima XLE?",
+  "expected": "$0.26 per mile",
+  "kind": "document",
+  "doc_id": "LEASE-036",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "LEASE-036",
+   "page": 2,
+   "title": "Lease Agreement 036 - 2024 Nissan Altima XLE"
+  }
+ },
+ {
+  "question": "What is the annual mileage allowance for the lease agreement on the 2023 Jeep Grand Cherokee Sport?",
+  "expected": "15,000 miles",
+  "kind": "document",
+  "doc_id": "LEASE-059",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "LEASE-059",
+   "page": 2,
+   "title": "Lease Agreement 059 - 2023 Jeep Grand Cherokee Sport"
+  }
+ },
+ {
+  "question": "What is the early termination fee for the lease agreement on the 2021 Hyundai Tucson XLE?",
+  "expected": "$661",
+  "kind": "document",
+  "doc_id": "LEASE-096",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "LEASE-096",
+   "page": 2,
+   "title": "Lease Agreement 096 - 2021 Hyundai Tucson XLE"
+  }
+ },
+ {
+  "question": "What is the early termination fee for the lease agreement on the 2022 Kia Sportage SE?",
+  "expected": "$478",
+  "kind": "document",
+  "doc_id": "LEASE-021",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "LEASE-021",
+   "page": 2,
+   "title": "Lease Agreement 021 - 2022 Kia Sportage SE"
+  }
+ },
+ {
+  "question": "What is the early termination fee for the lease agreement on the 2022 Ford F-150 LE?",
+  "expected": "$390",
+  "kind": "document",
+  "doc_id": "LEASE-048",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "LEASE-048",
+   "page": 2,
+   "title": "Lease Agreement 048 - 2022 Ford F-150 LE"
+  }
+ },
+ {
+  "question": "What is the annual mileage allowance for the lease agreement on the 2021 Toyota RAV4 XLE?",
+  "expected": "12,000 miles",
+  "kind": "document",
+  "doc_id": "LEASE-046",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "LEASE-046",
+   "page": 2,
+   "title": "Lease Agreement 046 - 2021 Toyota RAV4 XLE"
+  }
+ },
+ {
+  "question": "What is the excess mileage charge for the lease agreement on the 2021 Toyota RAV4 LE?",
+  "expected": "$0.22 per mile",
+  "kind": "document",
+  "doc_id": "LEASE-027",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "LEASE-027",
+   "page": 2,
+   "title": "Lease Agreement 027 - 2021 Toyota RAV4 LE"
+  }
+ },
+ {
+  "question": "What is the annual mileage allowance for the lease agreement on the 2021 Jeep Grand Cherokee LE?",
+  "expected": "12,000 miles",
+  "kind": "document",
+  "doc_id": "LEASE-035",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "LEASE-035",
+   "page": 2,
+   "title": "Lease Agreement 035 - 2021 Jeep Grand Cherokee LE"
+  }
+ },
+ {
+  "question": "What does the guidance say about debt collection contact?",
+  "expected": "a debt collector may not contact you at an inconvenient time",
+  "kind": "document",
+  "doc_id": "GUIDE-CFPB-032",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "GUIDE-CFPB-002",
+   "page": 2,
+   "title": "Guidance Note 002 - debt collection contact"
+  }
+ },
+ {
+  "question": "What does the guidance say about right to rescind?",
+  "expected": "three business days",
+  "kind": "document",
+  "doc_id": "GUIDE-REGZ-046",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "GUIDE-REGZ-016",
+   "page": 2,
+   "title": "Guidance Note 016 - right to rescind"
+  }
+ },
+ {
+  "question": "What does the guidance say about annual percentage rate disclosure?",
+  "expected": "annual percentage rate must be disclosed",
+  "kind": "document",
+  "doc_id": "GUIDE-REGZ-022",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "GUIDE-REGZ-027",
+   "page": 1,
+   "title": "Guidance Note 027 - annual percentage rate disclosure"
+  }
+ },
+ {
+  "question": "What does the guidance say about periodic statement?",
+  "expected": "periodic statement for each billing cycle",
+  "kind": "document",
+  "doc_id": "GUIDE-REGZ-019",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "GUIDE-REGZ-044",
+   "page": 2,
+   "title": "Guidance Note 044 - periodic statement"
+  }
+ },
+ {
+  "question": "What does the guidance say about auto loan shopping?",
+  "expected": "compare offers from at least three lenders",
+  "kind": "document",
+  "doc_id": "GUIDE-CFPB-034",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "GUIDE-CFPB-044",
+   "page": 1,
+   "title": "Guidance Note 044 - auto loan shopping"
+  }
+ },
+ {
+  "question": "What does the guidance say about tolerance for APR disclosure?",
+  "expected": "one-eighth of one percentage point",
+  "kind": "document",
+  "doc_id": "GUIDE-REGZ-025",
+  "correct": false,
+  "tool": "document_search",
+  "citation": {
+   "source": "GUIDE-REGZ-045",
+   "page": 1,
+   "title": "Guidance Note 045 - tolerance for APR disclosure"
+  }
+ },
+ {
+  "question": "What does the guidance say about tolerance for APR disclosure?",
+  "expected": "one-eighth of one percentage point",
+  "kind": "document",
+  "doc_id": "GUIDE-REGZ-005",
+  "correct": false,
+  "tool": "document_search",
+  "citation": {
+   "source": "GUIDE-REGZ-045",
+   "page": 1,
+   "title": "Guidance Note 045 - tolerance for APR disclosure"
+  }
+ },
+ {
+  "question": "What does the guidance say about annual percentage rate disclosure?",
+  "expected": "annual percentage rate must be disclosed",
+  "kind": "document",
+  "doc_id": "GUIDE-REGZ-002",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "GUIDE-REGZ-027",
+   "page": 1,
+   "title": "Guidance Note 027 - annual percentage rate disclosure"
+  }
+ },
+ {
+  "question": "What does the guidance say about debt collection contact?",
+  "expected": "a debt collector may not contact you at an inconvenient time",
+  "kind": "document",
+  "doc_id": "GUIDE-CFPB-047",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "GUIDE-CFPB-002",
+   "page": 2,
+   "title": "Guidance Note 002 - debt collection contact"
+  }
+ },
+ {
+  "question": "What does the guidance say about auto loan shopping?",
+  "expected": "compare offers from at least three lenders",
+  "kind": "document",
+  "doc_id": "GUIDE-CFPB-029",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "GUIDE-CFPB-044",
+   "page": 1,
+   "title": "Guidance Note 044 - auto loan shopping"
+  }
+ },
+ {
+  "question": "What does the guidance say about credit report dispute?",
+  "expected": "dispute errors on your credit report in writing",
+  "kind": "document",
+  "doc_id": "GUIDE-CFPB-018",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "GUIDE-CFPB-003",
+   "page": 2,
+   "title": "Guidance Note 003 - credit report dispute"
+  }
+ },
+ {
+  "question": "What does the guidance say about right to rescind?",
+  "expected": "three business days",
+  "kind": "document",
+  "doc_id": "GUIDE-REGZ-016",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "GUIDE-REGZ-016",
+   "page": 2,
+   "title": "Guidance Note 016 - right to rescind"
+  }
+ },
+ {
+  "question": "What does the guidance say about periodic statement?",
+  "expected": "periodic statement for each billing cycle",
+  "kind": "document",
+  "doc_id": "GUIDE-REGZ-014",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "GUIDE-REGZ-044",
+   "page": 2,
+   "title": "Guidance Note 044 - periodic statement"
+  }
+ },
+ {
+  "question": "What does the guidance say about debt collection contact?",
+  "expected": "a debt collector may not contact you at an inconvenient time",
+  "kind": "document",
+  "doc_id": "GUIDE-CFPB-012",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "GUIDE-CFPB-002",
+   "page": 2,
+   "title": "Guidance Note 002 - debt collection contact"
+  }
+ },
+ {
+  "question": "What does the guidance say about annual percentage rate disclosure?",
+  "expected": "annual percentage rate must be disclosed",
+  "kind": "document",
+  "doc_id": "GUIDE-REGZ-047",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "GUIDE-REGZ-027",
+   "page": 1,
+   "title": "Guidance Note 027 - annual percentage rate disclosure"
+  }
+ },
+ {
+  "question": "What does the guidance say about debt collection contact?",
+  "expected": "a debt collector may not contact you at an inconvenient time",
+  "kind": "document",
+  "doc_id": "GUIDE-CFPB-007",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "GUIDE-CFPB-002",
+   "page": 2,
+   "title": "Guidance Note 002 - debt collection contact"
+  }
+ },
+ {
+  "question": "What does the guidance say about add-on products?",
+  "expected": "add-on products are optional",
+  "kind": "document",
+  "doc_id": "GUIDE-CFPB-015",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "GUIDE-CFPB-015",
+   "page": 2,
+   "title": "Guidance Note 015 - add-on products"
+  }
+ },
+ {
+  "question": "What does the guidance say about add-on products?",
+  "expected": "add-on products are optional",
+  "kind": "document",
+  "doc_id": "GUIDE-CFPB-020",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "GUIDE-CFPB-015",
+   "page": 2,
+   "title": "Guidance Note 015 - add-on products"
+  }
+ },
+ {
+  "question": "What does the guidance say about right to rescind?",
+  "expected": "three business days",
+  "kind": "document",
+  "doc_id": "GUIDE-REGZ-031",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "GUIDE-REGZ-016",
+   "page": 2,
+   "title": "Guidance Note 016 - right to rescind"
+  }
+ },
+ {
+  "question": "What does the guidance say about complaint process?",
+  "expected": "submit a complaint to the Consumer Financial Protection Bureau",
+  "kind": "document",
+  "doc_id": "GUIDE-CFPB-021",
+  "correct": true,
+  "tool": "document_search",
+  "citation": {
+   "source": "GUIDE-CFPB-036",
+   "page": 2,
+   "title": "Guidance Note 036 - complaint process"
+  }
+ },
+ {
+  "question": "How many loans are current?",
+  "expected": "253",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "count_status current"
+  }
+ },
+ {
+  "question": "What is the average APR for current loans?",
+  "expected": "9.29%",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "avg_apr_status current"
+  }
+ },
+ {
+  "question": "How many loans are delinquent?",
+  "expected": "80",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "count_status delinquent"
+  }
+ },
+ {
+  "question": "What is the average APR for delinquent loans?",
+  "expected": "9.83%",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "avg_apr_status delinquent"
+  }
+ },
+ {
+  "question": "How many loans are paid_off?",
+  "expected": "78",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "count_status paid_off"
+  }
+ },
+ {
+  "question": "What is the average APR for paid_off loans?",
+  "expected": "9.00%",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "avg_apr_status paid_off"
+  }
+ },
+ {
+  "question": "How many loans are charged_off?",
+  "expected": "89",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "count_status charged_off"
+  }
+ },
+ {
+  "question": "What is the average APR for charged_off loans?",
+  "expected": "9.15%",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "avg_apr_status charged_off"
+  }
+ },
+ {
+  "question": "How many Toyota loans are there?",
+  "expected": "72",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "count_make toyota"
+  }
+ },
+ {
+  "question": "How many Honda loans are there?",
+  "expected": "77",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "count_make honda"
+  }
+ },
+ {
+  "question": "How many Ford loans are there?",
+  "expected": "54",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "count_make ford"
+  }
+ },
+ {
+  "question": "How many Chevrolet loans are there?",
+  "expected": "54",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "count_make chevrolet"
+  }
+ },
+ {
+  "question": "How many Nissan loans are there?",
+  "expected": "54",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "count_make nissan"
+  }
+ },
+ {
+  "question": "How many Hyundai loans are there?",
+  "expected": "60",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "count_make hyundai"
+  }
+ },
+ {
+  "question": "How many Kia loans are there?",
+  "expected": "62",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "count_make kia"
+  }
+ },
+ {
+  "question": "How many Jeep loans are there?",
+  "expected": "67",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "count_make jeep"
+  }
+ },
+ {
+  "question": "What is the average APR for Toyota loans?",
+  "expected": "9.24%",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "avg_apr_status toyota"
+  }
+ },
+ {
+  "question": "What is the average APR for Honda loans?",
+  "expected": "9.46%",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "avg_apr_status honda"
+  }
+ },
+ {
+  "question": "What is the average APR for Ford loans?",
+  "expected": "8.99%",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "avg_apr_status ford"
+  }
+ },
+ {
+  "question": "What is the average APR for Chevrolet loans?",
+  "expected": "9.69%",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "avg_apr_status chevrolet"
+  }
+ },
+ {
+  "question": "What is the average APR for Nissan loans?",
+  "expected": "8.70%",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "avg_apr_status nissan"
+  }
+ },
+ {
+  "question": "What is the monthly payment for loan LN-0001?",
+  "expected": "$359.16",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "loan_by_id ln-0001"
+  }
+ },
+ {
+  "question": "What is the monthly payment for loan LN-0100?",
+  "expected": "$830.90",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "loan_by_id ln-0100"
+  }
+ },
+ {
+  "question": "What is the monthly payment for loan LN-0200?",
+  "expected": "$638.59",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "loan_by_id ln-0200"
+  }
+ },
+ {
+  "question": "What is the monthly payment for loan LN-0300?",
+  "expected": "$267.17",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "loan_by_id ln-0300"
+  }
+ },
+ {
+  "question": "What is the monthly payment for loan LN-0400?",
+  "expected": "$330.16",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "loan_by_id ln-0400"
+  }
+ },
+ {
+  "question": "What is the monthly payment for loan LN-0500?",
+  "expected": "$515.34",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "loan_by_id ln-0500"
+  }
+ },
+ {
+  "question": "What is the average APR across all loans?",
+  "expected": "9.31%",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "avg_apr_all"
+  }
+ },
+ {
+  "question": "What is the total remaining balance across all loans?",
+  "expected": "$6,291,036.11",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "total_balance"
+  }
+ },
+ {
+  "question": "What is the highest monthly payment?",
+  "expected": "$1,754.43",
+  "kind": "sql",
+  "doc_id": null,
+  "correct": true,
+  "tool": "sql_tool",
+  "citation": {
+   "source": "synthetic loan database (SQLite)",
+   "detail": "max_payment"
+  }
+ }
+]

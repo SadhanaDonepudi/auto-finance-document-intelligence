@@ -1,0 +1,32 @@
+{
+  "documents": 320,
+  "by_kind": {
+    "GUIDE-CFPB": 50,
+    "GUIDE-REGZ": 50,
+    "lease_agreement": 100,
+    "retail_installment_contract": 120
+  },
+  "loans": 500,
+  "pdf_sample_docs": 10,
+  "pdf_sample_pages_parsed": 3,
+  "test_set_n": 100,
+  "doc_questions": 70,
+  "sql_questions": 30,
+  "accuracy": 0.97,
+  "correct": 97,
+  "doc_accuracy_main": 0.9571,
+  "sql_accuracy_main": 1.0,
+  "baseline_config": {
+    "chunk_size": 800,
+    "top_k": 3,
+    "rerank": false
+  },
+  "baseline_wrong_rate": 0.3286,
+  "best_config": {
+    "chunk_size": 800,
+    "top_k": 10,
+    "rerank": true
+  },
+  "best_wrong_rate": 0.0286,
+  "wrong_answer_reduction": 0.913
+}

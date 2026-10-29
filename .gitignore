@@ -1,0 +1,5 @@
+__pycache__/
+.pytest_cache/
+data/corpus.json
+data/loans.db
+*.pyc
